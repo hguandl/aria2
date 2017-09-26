@@ -7,9 +7,11 @@
 *.he
 depcomp
 *.m4
+.DS_Store
 Makefile
 Makefile.in
 missing
+build-release/
 autom4te.cache/
 config.guess
 config.h
